@@ -12,6 +12,6 @@ Bu Repo'da Dual Core STM32H747 için işe yarayan özellikler hakkında örnekle
 
 - Corelar arası peripharel resource paylaşılması.
 
-- Shared Memory
+- Data Sharing and Shared Memory
 
 - Corelar arası mesajlaşma ve Flag ile bekletme
