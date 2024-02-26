@@ -16,7 +16,7 @@ Bu Repo'da Dual Core STM32H747 için işe yarayan özellikler hakkında örnekle
 
 - Corelar arası mesajlaşma ve Flag ile bekletme
 
-# Ne Nerde: (Bu şimdilik burayı zamanla daha formatlı bir hale getirmeye çalışacağım)
+# Ne Nerde: (Burayı zamanla daha formatlı bir hale getirmeye çalışacağım)
 
 1-Quick Start Tutorial içerisinde proje oluşturulması için ilk adımları görebilirsiniz.
 
